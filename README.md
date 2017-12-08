@@ -54,7 +54,8 @@ Testing Tools
 ## Version Control
 ```
 Version 1.0.0 - Hello World
-Version 1.0.1 - Hello to you too
+Version 1.0.1 - Random Generator
+Version 1.1 - (UI Implementation)
 ```
 
 ## Authors
