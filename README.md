@@ -62,6 +62,7 @@ Version 1.1 - (UI Implementation)
 
 * **Walter Chan** - *Developer* - [WChan97](https://github.com/WChan97)
 * **Malek Darwiche** - *Developer* - [malek-d](https://github.com/malek-d)
+* **Jonathan Moallem** - *Developer* - [J-Mo63](https://github.com/J-Mo63)
 
 ## License
 
