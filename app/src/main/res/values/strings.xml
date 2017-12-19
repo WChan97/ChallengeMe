@@ -1,4 +1,16 @@
 <resources>
+    <!-- System Strings -->
     <string name="app_name">ChallengeMe</string>
     <string name="action_settings">Settings</string>
+
+    <!-- Suffix Strings-->
+    <string name="times_suffix">&#160;Times</string>
+    <string name="minutes_suffix">&#160;Minutes</string>
+
+    <!-- Challenge Strings -->
+    <string name="challenge_box_jumps">Box Jumps:&#160;</string>
+    <string name="challenge_push_ups">Push Ups:&#160;</string>
+    <string name="challenge_sit_ups">Sit Ups:&#160;</string>
+    <string name="challenge_squats">Squats:&#160;</string>
+    <string name="challenge_planking">Plank for:&#160;</string>
 </resources>
